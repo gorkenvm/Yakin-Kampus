@@ -1,2 +1,2 @@
-# Yakın-Kampus
+# Yakin-Kampus
 yakın kampus kodları buraya
